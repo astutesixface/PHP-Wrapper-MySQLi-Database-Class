@@ -32,21 +32,15 @@ Wrapper for a PHP MySQL class, which utilizes MySQLi and prepared statements.
 
 This software is developed during my free time and I will be glad if somebody will support me.
 
-Everyone's time should be valuable, so please consider donating.
+Everyone's time should be valuable, .
 
-[Donate with paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=a%2ebutenka%40gmail%2ecom&lc=DO&item_name=mysqlidb&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
+[Astutesixface](https://astutesixface.com)
 
 ### Installation
 To utilize this class, first import MysqliDb.php into your project, and require it.
 
 ```php
 require_once ('MysqliDb.php');
-```
-
-### Installation with composer
-It is also possible to install library via composer
-```
-composer require thingengineer/mysqli-database-class:dev-master
 ```
 
 ### Initialization
